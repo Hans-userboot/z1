@@ -14,7 +14,7 @@ API_ID = int(os.environ.get("API_ID", "18173285"))
 API_HASH = os.environ.get("API_HASH", "7de83a18908670bfd9c6179dcf2483c6")
 
 CHANNEL_DB = int(os.environ.get("CHANNEL_DB", "-1001713398708"))
-DATABASE_URL = os.environ.get("DATABASE_URL", "postgres://kqhetohp:2r2Ppa4VmesFZbc9TzH4hzSw0hR4cAPH@flora.db.elephantsql.com/kqhetohp")
+DATABASE_URL = os.environ.get("DATABASE_URL", "postgres://weebgddg:W2NPELQ5nOamxPyEGXYWMvYXPvhBp3Jc@flora.db.elephantsql.com/weebgddg")
 
 RESTRICT = strtobool(os.environ.get("RESTRICT", "True"))
 
